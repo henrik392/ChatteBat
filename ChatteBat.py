@@ -22,4 +22,8 @@ print("Hello, my name is chatter.")
 
 print("I would like to have little chat!")
 
+input("Answear: ")
+
+
+
 aksQuestion()
