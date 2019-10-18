@@ -24,8 +24,6 @@ print("I would like to have little chat!")
 
 input("Answear: ")
 
-olfa
-
-
+print("olfa")
 
 aksQuestion()
